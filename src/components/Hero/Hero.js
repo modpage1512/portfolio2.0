@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Programador full-stack, la imaginación es el limite y el limite te lo impones tu mismo.
       </SectionText>
-      <Button onClick={() => window.location="https://google.com"}>Saber más</Button>
+      <Button onClick={() => window.location="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSDbFPmkQNFgzrSWBJBpzkSfqbpzKnBJPrRPSvDfpmqkctZfTpnJXBwZpGFTwfpNSxdXcdvV"}>Saber más</Button>
     </LeftSection>
   </Section>
 );
