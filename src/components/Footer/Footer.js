@@ -8,8 +8,8 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <LinkList>
-        <LinkTitle>Email: Pacheco1512@gmail.com</LinkTitle>
-        <LinkItem href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSDbFPmkQNFgzrSWBJBpzkSfqbpzKnBJPrRPSvDfpmqkctZfTpnJXBwZpGFTwfpNSxdXcdvV">Contactame por email</LinkItem>
+        <LinkTitle>Email: Pacheco1512@gmail.com</LinkTitle><br/>
+        <LinkItem href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSDbFPmkQNFgzrSWBJBpzkSfqbpzKnBJPrRPSvDfpmqkctZfTpnJXBwZpGFTwfpNSxdXcdvV">Contactame</LinkItem>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>

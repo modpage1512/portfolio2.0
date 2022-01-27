@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'CryptoCarlos Dapp',
-    description: "Usando la increible tecnologia blockchain y etherum, Esta aplicacion decentralizada de manejo de cripto activos te hara la vida mas facil para mantener tu cartera y transacciones al dia; Para poder usarlo necesitas: Cuenta en metamask y ethererum de la red de prueba de repston",
+    description: "Usando la increíble tecnología blockchain y etherum, Esta aplicación descentralizada de manejo de cripto activos te hará la vida más fácil para mantener tu cartera y transacciones al dia; Para poder usarlo necesitas: Cuenta en metamask y ethererum de la red de prueba de repston Stack",
       image: '/images/1.png',
       tags: ['React', 'Solidity', 'Alchemy', 'Tailwindcss'],
     visit: 'https://competent-tesla-d68aa5.netlify.app/',
@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: 'Aplicacion de blog',
-    description:"Con esta aplicacion tu sueño de ser bloguero se hace realidad, con una interfaz limpia y elegante, puedes empezar tu carrera como bloguero",
+    description:"Con esta aplicación tu sueño de ser bloguero se hace realidad, con una interfaz limpia y elegante, puedes empezar tu carrera como bloguero",
     image: '/images/2.png',
     tags: ['Next', 'GraphQL', "CMSGraphql", "Tailwindcss"],
     visit: 'https://blog-app-livid.vercel.app/',
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: 'Restaurante Pizza Online',
-    description: "Es una aplicacion de compras y ventas de pizzas online, un Ecommerce de comida, puedes añadir, comprar y vender tus propias pizzas.(Para agregar pizzas tienes que tener el token y se obtiene colocando /admin al final de la url, usuario: admin, contraseña: 12345)",
+    description: "Es una aplicación de compras y ventas de pizzas online, un Ecommerce de comida, puedes añadir, comprar y vender tus propias pizzas. (Para agregar pizzas tienes que tener el token y se obtiene colocando /admin al final de la url, usuario: admin, contraseña: 12345; Luego dar click en inicio y agregar la pizza, esperar y cuando se retire el formulario actualizar la página)",
       image: '/images/3.jpg',
       tags: ['Next', 'MongoDB', "Mongoose", "cloudinary"],
     visit: 'https://pizza-restaurante-online.vercel.app/',
@@ -44,5 +44,5 @@ export const projects = [
 export const TimeLineData = [
   { year: 2020, text: 'Año en que empecé mi viaje como programador full-time', },
   { year: 2021, text: 'Realicé la primera version del portafolio con proyectos basicos en css, javascript y html', },
-  { year: 2022, text: 'Termino la version 2 de mi portafolio, siendo esta mas optima para exponer proyectos mas profesionales y complejos', },
+  { year: 2022, text: 'Termino la versión 2 de mi portafolio, siendo esta más óptima para exponer proyectos más profesionales y complejos', },
 ];

@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider/><br/>
     <SectionTitle>Tecnologias</SectionTitle>
     <SectionText>
-      Me especializo en un extenso rango de tecnologias, con el objetivo de dar el mejor servicio posible, desde el front-end hasta el back-end. 
+    Me especializo en un extenso rango de tecnologías, con el objetivo de dar el mejor servicio posible, desde el front-end hasta el back-end. 
     </SectionText>
     <List>
       <ListItem>
