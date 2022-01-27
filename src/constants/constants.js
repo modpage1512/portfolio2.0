@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: 'Restaurante Pizza Online',
-    description: "Esta es una aplicacion de compras y ventas de pizzas online, un Ecommerce de comida, puedes añadir, comprar y vender tus propias pizzas.(Para agregar pizzas tienes que tener el token y se obtiene colocando /admin al final de la url, usuario: admin, contraseña: 12345)",
+    description: "Es una aplicacion de compras y ventas de pizzas online, un Ecommerce de comida, puedes añadir, comprar y vender tus propias pizzas.(Para agregar pizzas tienes que tener el token y se obtiene colocando /admin al final de la url, usuario: admin, contraseña: 12345)",
       image: '/images/3.jpg',
       tags: ['Next', 'MongoDB', "Mongoose", "cloudinary"],
     visit: 'https://pizza-restaurante-online.vercel.app/',
@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: 'Mini Twitter clone',
-    description: "Esta aplicacion es un clon de twitter, tiene las funcionalidades: eliminar tweets, agregar tweets y publicar tweets",
+    description: "Es un Mini clon de twitter, tiene las funcionalidades: eliminar tweets, agregar tweets y publicar tweets",
     image: '/images/4.jpg',
     tags: ['Vue',  'Firebase'],
     visit: 'https://mystifying-jepsen-04f598.netlify.app/#/',
@@ -42,7 +42,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2020, text: 'Año en que empeze mi viaje como programador full-time', },
-  { year: 2021, text: 'Hice la primera version del portafolio con proyectos basicos en css, javascript y html', },
+  { year: 2020, text: 'Año en que empecé mi viaje como programador full-time', },
+  { year: 2021, text: 'Realicé la primera version del portafolio con proyectos basicos en css, javascript y html', },
   { year: 2022, text: 'Termino la version 2 de mi portafolio, siendo esta mas optima para exponer proyectos mas profesionales y complejos', },
 ];
