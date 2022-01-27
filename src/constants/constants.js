@@ -4,7 +4,7 @@ export const projects = [
     description: "Usando la increíble tecnología blockchain y etherum, Esta aplicación descentralizada de manejo de cripto activos te hará la vida más fácil para mantener tu cartera y transacciones al dia; Para poder usarlo necesitas: Cuenta en metamask y ethererum de la red de prueba de repston Stack",
       image: '/images/1.png',
       tags: ['React', 'Solidity', 'Alchemy', 'Tailwindcss'],
-    visit: 'https://competent-tesla-d68aa5.netlify.app/',
+    visit: 'https://nostalgic-galileo-630aa4.netlify.app/',
     id: 0,
   },
   {
