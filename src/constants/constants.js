@@ -12,7 +12,7 @@ export const projects = [
     description:"Con esta aplicación tu sueño de ser bloguero se hace realidad, con una interfaz limpia y elegante, puedes empezar tu carrera como bloguero",
     image: '/images/2.png',
     tags: ['Next', 'GraphQL', "CMSGraphql", "Tailwindcss"],
-    visit: 'https://blog-app-livid.vercel.app/',
+    visit: 'https://blog-app-green.vercel.app/',
     id: 1,
   },
   {
